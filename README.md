@@ -37,12 +37,5 @@ This project helped me understand that effective data visualization is not only 
 
 ---
 
-### Project Contents
-
-* Tableau Story / Workbook
-* COVID-19 Dataset
-* Screenshots of visualizations
-* Project documentation
-
 **#Tableau #DataVisualization #DataAnalytics #COVID19 #DataStorytelling #BusinessIntelligence**
 
