@@ -35,7 +35,7 @@ The Tableau Story presents six different visualizations that work together to cr
 
 This project helped me understand that effective data visualization is not only about creating charts—it is about **connecting multiple visualizations to communicate a meaningful story and insights from data**.
 
----
+
 
 **#Tableau #DataVisualization #DataAnalytics #COVID19 #DataStorytelling #BusinessIntelligence**
 
