@@ -1,4 +1,4 @@
-# # COVID-19 Dataset – Tableau Visual Story 
+#  COVID-19 Dataset – Tableau Visual Story 
 
 This project is a **6-chart Tableau visual story** created using a COVID-19 dataset. The goal of this project is to transform raw COVID-19 data into meaningful visualizations that highlight **trends, patterns, comparisons, and geographical insights**.
 
